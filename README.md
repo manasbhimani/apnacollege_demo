@@ -1,3 +1,4 @@
 # apnacollege_demo
-this is my github repo
+This is my GitHub Repo
+<br>
 Author - Manas Bhimani
